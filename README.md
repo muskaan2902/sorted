@@ -1,2 +1,5 @@
-# sorted
-sorting of the array elements
+ def bubbleSort(self,arr, n):
+        arr.sort()
+        return arr
+       
+
