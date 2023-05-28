@@ -1,5 +1,3 @@
- def bubbleSort(self,arr, n):
-        arr.sort()
-        return arr
+basic program of sorting in list 
        
 
